@@ -4,7 +4,7 @@
 
 This project was created for ICSI333 - System fundamentals.
 
-This is a classic battleship implementation in C. Linux is required to run the code as it uses linux exclusive headers for the TCP sockets and client/server management. Some of the features include:
+This is a classic battleship implementation in C. Linux is required to run the code as it uses Linux exclusive headers for the TCP sockets and client/server management. Some of the features include:
 
 * Command-line arguments to choose play type (1 is singleplayer, 2 is server, and 3 is client)
 * Input validation and grid display of ships as well as hits and misses
